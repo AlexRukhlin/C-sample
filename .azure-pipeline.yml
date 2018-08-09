@@ -5,8 +5,8 @@
 queue: 'Hosted Ubuntu 1604'
 steps:
 
-  - script: ./configure
-    displayName: 'configure'
+#  - script: ./configure
+#    displayName: 'configure'
 
   - script: 'make'
     displayName: 'make'
