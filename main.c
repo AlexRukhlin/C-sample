@@ -7,6 +7,10 @@
 
 char matrix[3][3];
 void init_matrix();
+void get_player_move();
+void get_computer_move();
+void disp_matrix();
+void check();
 
 void main()
 
