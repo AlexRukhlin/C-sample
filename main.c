@@ -6,6 +6,7 @@
 #include <stdlib.h>
 
 char matrix[3][3];
+void init_matrix();
 
 void main()
 
