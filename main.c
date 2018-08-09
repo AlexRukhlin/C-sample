@@ -10,7 +10,7 @@ void init_matrix();
 void get_player_move();
 void get_computer_move();
 void disp_matrix();
-void check();
+char check();
 
 void main()
 
@@ -168,7 +168,7 @@ printf("\n");
 
 /**********************************************************/
 
-void check()
+char check()
 
 {
 
